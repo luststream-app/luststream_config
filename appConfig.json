@@ -2,5 +2,9 @@
   "appConfig": {
     "buildNumber": "6",
     "url": "https://luststream-app.github.io/luststream_config/pornstream.apk"
+  },
+  "browsexConfig": {
+    "buildNumber": "2",
+    "url": "https://luststream-app.github.io/luststream_config/browsex.apk"
   }
 }
